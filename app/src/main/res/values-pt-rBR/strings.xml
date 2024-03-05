@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_welcome">Ola, bem vindo a Santander dev week! Digite um ID do Correntista para visualizar seu extrato bancario</string>
+    <string name="txt_continue">Continuar</string>
+    <string name="txt_account_holder_id">Account Holder ID</string>
+</resources>
